@@ -69,6 +69,7 @@
 
 ## 📫 Contact
 - **Email**: bobason01@gmail.com
+- **Spigot**: https://www.spigotmc.org/resources/authors/crston.38059
 
 ---
 💬 *“게임의 재미는 주어진 조건을 달성함에 따라 오는 성취감에서 온다”*
